@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: lightgray;
+}
+
+body, input, button {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+}
